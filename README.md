@@ -1,5 +1,5 @@
 # SPbU-database-course
-Scripts from course on databases.
+Scripts from course on databases. To run the scripts MS SQL Server was used.
 
 ## Navigation
 - pets_db --> scripts to a pets database.
